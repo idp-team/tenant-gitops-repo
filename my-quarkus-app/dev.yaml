@@ -1,0 +1,4 @@
+image:
+  repository: quay.io/alexandracasas/my-quarkus-app
+  pullPolicy: IfNotPresent
+  tag: "30"
