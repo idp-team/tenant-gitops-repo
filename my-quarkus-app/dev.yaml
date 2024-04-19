@@ -1,5 +1,5 @@
 image:
   repository: quay.io/alexandracasas/my-quarkus-app
   pullPolicy: IfNotPresent
-  sha_hash: "sha256:06b45c1c093f28f72bc71ea2254b0a1925972629dc8c44baa7dca42d592e1a3a"
-  tag: "30"
+  sha_hash: "sha256:75f85a0338e6ff28302b65b7c4230d290cabbb99d3f92887afd3a604fbbe7d35"
+  tag: "v1"
